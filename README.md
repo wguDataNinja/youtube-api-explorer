@@ -34,14 +34,33 @@ Steps:
 
 ---
 
+Here is the raw markdown:
+
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/youtube-api-explorer.git
+git clone https://github.com/wguDataNinja/youtube-api-explorer.git
 cd youtube-api-explorer
+````
+3. Install Requirements
+```python
+pip install -r requirements.txt
 ```
 
----
+4. Configure Your API Key
+
+Create a config file by copying the sample:
+```bash
+cp config/api_config.sample.yaml config/api_config.yaml
+
+```
+
+Then edit config/api_config.yaml and paste your YouTube API key:
+```python
+YOUTUBE_API_KEY: "your-api-key-here"
+```
+
+
 
 ### 3. Test the API
 
@@ -55,7 +74,7 @@ If successful, you’ll see channel info for Alex the Analyst — confirming you
 
 ---
 
-### 4. Fetch Channel Metadata
+### 4. Fetch Channel Metadata (no quota cost)
 
 Fetch metadata for a single channel using its handle or ID.
 
@@ -64,7 +83,7 @@ Edit the top of the script:
 `scripts/fetch_channel_data.py`
 
 Set:
-
+Pick your own channel or use the example:
 ```python
 CHANNEL_INPUT = "alextheanalyst"  # or a channel ID like "UC7cs8q-gJRlGwj4A8OmCmXg"
 ```
@@ -105,10 +124,6 @@ Example:
   }
 }
 ```
-
-Reference:  
-https://developers.google.com/youtube/v3/docs/channels
-
 ---
 
 ### 6. Fetch Video Metadata
