@@ -1,0 +1,57 @@
+{
+  "kind": "youtube#channel",
+  "etag": "5If8kTw5YHDpIln9wl-BT1fVMfk",
+  "id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+  "snippet": {
+    "title": "Alex The Analyst",
+    "description": "My name is Alex Freberg and on this channel I will be going over everything you need to know to become a Data Analyst. If you are wanting to make a career change or learn the skills needed to become a Data Analyst, be sure to subscribe to stay up to date on all my latest content.\n\nYou can find me on LinkedIn at:\nhttps://www.linkedin.com/in/alex-freberg/\n\nAlexTheAnalyst.com\nhttps://www.alextheanalyst.com/\n\nDiscord Channel:\nhttps://discord.gg/rxZUjNvRzR\n\nTwitter:\n@Alex_TheAnalyst\n\n",
+    "customUrl": "@alextheanalyst",
+    "publishedAt": "2020-01-08T05:04:24.970712Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Alex The Analyst",
+      "description": "My name is Alex Freberg and on this channel I will be going over everything you need to know to become a Data Analyst. If you are wanting to make a career change or learn the skills needed to become a Data Analyst, be sure to subscribe to stay up to date on all my latest content.\n\nYou can find me on LinkedIn at:\nhttps://www.linkedin.com/in/alex-freberg/\n\nAlexTheAnalyst.com\nhttps://www.alextheanalyst.com/\n\nDiscord Channel:\nhttps://discord.gg/rxZUjNvRzR\n\nTwitter:\n@Alex_TheAnalyst\n\n"
+    },
+    "country": "US"
+  },
+  "contentDetails": {
+    "relatedPlaylists": {
+      "likes": "",
+      "uploads": "UU7cs8q-gJRlGwj4A8OmCmXg"
+    }
+  },
+  "statistics": {
+    "viewCount": "53150440",
+    "subscriberCount": "1130000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "384"
+  },
+  "topicDetails": {
+    "topicIds": [
+      "/m/07c1v",
+      "/m/01k8wb",
+      "/m/019_rr"
+    ],
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Technology",
+      "https://en.wikipedia.org/wiki/Knowledge",
+      "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+    ]
+  }
+}
