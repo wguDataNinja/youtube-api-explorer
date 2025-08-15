@@ -33,7 +33,7 @@ def test_youtube_api():
 
         print("✅ Connected to YouTube API")
         print("Channel Title:", snippet["title"])
-        print("Handle:        @{}".format(handle))
+        print("Handle:        {}".format(handle))
         print("Subscribers:   {}".format(stats.get("subscriberCount", "N/A")))
         print("Total Videos:  {}".format(stats.get("videoCount", "N/A")))
 
